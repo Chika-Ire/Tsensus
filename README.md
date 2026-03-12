@@ -11,8 +11,11 @@
 - **前端交互：** Streamlit 快速构建的 Web 界面。Cpolar免费内网穿透，开机挂上8080端口就是一个直接能用的网站。
 ## 🖼️ 示例截图
 ![主页](example/主页.jpg)
+<img src="example/主页.jpg" alt="主页" width="33%" />
 ![查询](example/查询.jpg)
+<img src="example/查询.jpg" alt="查询" width="33%" />
 ![问卷](example/问卷.jpg)
+<img src="example/问卷.jpg" alt="问卷" width="33%" />
 ## 🤔 功能展望
 - **新生知识库** 正在研究RAG，如果能在下一届学生入学前做完，就能提供一条龙服务（真
 
