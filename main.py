@@ -5,12 +5,12 @@ import data_utils2 as data_utils
 import database_query3 as database_query
 
 st.set_page_config(
-    page_title="彩砖选课AI",
+    page_title="教师普查",
     layout='wide'
 )
 
-st.title("彩砖选课AI（0.5 Beta）")
-st.caption("Powered by Deepseek V3.2 | Streamlit")
+st.title("教师普查")
+st.caption("0.5 Beta | Powered by Deepseek V3.2 | Streamlit")
 
 # ==========================================
 # 0. 定义反馈表单弹窗 (st.dialog)
